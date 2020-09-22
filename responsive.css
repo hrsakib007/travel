@@ -1,0 +1,21 @@
+@media screen and (max-width: 991px) {
+  /********* Navbar *************/
+  .navbar {
+    text-align: center;
+  }
+  .dropdown-menu a{
+    text-align: center;
+  }
+  .end p,
+  .end h4{
+    text-align: center;
+  }
+  .dst{
+    margin-left: 35px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .sub{
+    padding-top: 2rem;
+  }
+}
